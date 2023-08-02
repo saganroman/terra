@@ -1,6 +1,6 @@
 # Sahan Test Task
 
-This is my test task.
+I have pushed a short video guide about this project. Watch file terra-guide.mp4 in the root dir please.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ A brief explanation of the project, its purpose, and key features.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone git@github.com:saganroman/terra.git
 
 2. Install the project dependencies:
     ```bash
